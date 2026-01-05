@@ -1,0 +1,30 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinayYadav07/Zomato-Clone---React-Frontend-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VinayYadav07/Zomato-Clone---React-Frontend-Application/issues"
+  },
+  "homepage": "https://github.com/VinayYadav07/Zomato-Clone---React-Frontend-Application#readme",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
